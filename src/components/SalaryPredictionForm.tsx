@@ -144,7 +144,7 @@ const SalaryPredictionForm = () => {
           <Calculator className="w-8 h-8 text-primary-foreground" />
         </div>
         <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-          Salary Prediction Engine
+          Employee Salary Predictor
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
           Predict employee salary categories using advanced machine learning algorithms 
